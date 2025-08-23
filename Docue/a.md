@@ -53,3 +53,9 @@ Life has park mark.
 Life has park cross.
 
 Life has major.
+
+Life is ideal.
+
+Life is base ideal.
+
+Life is most base ideal.
