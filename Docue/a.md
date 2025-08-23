@@ -59,3 +59,5 @@ Life is ideal.
 Life is base ideal.
 
 Life is most base ideal.
+
+Life is exform.
