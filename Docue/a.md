@@ -63,3 +63,5 @@ Life is most base ideal.
 Life is exform.
 
 Life has health.
+
+Life not include enjoy.
