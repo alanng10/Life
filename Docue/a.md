@@ -61,3 +61,5 @@ Life is base ideal.
 Life is most base ideal.
 
 Life is exform.
+
+Life has health.
