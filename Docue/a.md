@@ -64,4 +64,4 @@ Life is exform.
 
 Life has health.
 
-Life not include enjoy.
+Life include enjoy.
