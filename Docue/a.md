@@ -66,6 +66,10 @@ Life has health.
 
 Life include enjoy.
 
+Life base not include enjoy.
+
+Life base not include none produce work.
+
 disaster is Life cond.
 
 disaster is relate.
