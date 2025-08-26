@@ -69,3 +69,7 @@ Life include enjoy.
 disaster is Life cond.
 
 disaster is negate gain.
+
+disaster is negate mark.
+
+disaster is negate park.
