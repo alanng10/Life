@@ -64,6 +64,8 @@ Life is exform.
 
 Life has health.
 
+Life has peace.
+
 Life include enjoy.
 
 Life base not include enjoy.
