@@ -66,6 +66,8 @@ Life has health.
 
 Life has peace.
 
+peace is robust base.
+
 Life include enjoy.
 
 Life base not include enjoy.
