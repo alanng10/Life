@@ -67,3 +67,5 @@ Life has health.
 Life include enjoy.
 
 disaster is Life cond.
+
+disaster is negate gain.
