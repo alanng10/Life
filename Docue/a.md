@@ -82,6 +82,8 @@ Life include sure.
 
 Life include ease.
 
+Life include develop.
+
 disaster is Life cond.
 
 disaster is relate.
