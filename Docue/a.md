@@ -74,6 +74,14 @@ Life base not include enjoy.
 
 Life base not include none produce work.
 
+Life include work.
+
+Life include safe.
+
+Life include sure.
+
+Life include ease.
+
 disaster is Life cond.
 
 disaster is relate.
