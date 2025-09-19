@@ -93,3 +93,5 @@ disaster is negate gain.
 disaster is negate mark.
 
 disaster is negate park.
+
+disaster is negate life.
