@@ -95,3 +95,5 @@ disaster is negate mark.
 disaster is negate park.
 
 disaster is negate life.
+
+malign is disaster.
