@@ -84,6 +84,13 @@ Life include ease.
 
 Life include develop.
 
+Life word has spell.
+The spell is:
+"L" for Love Time.
+"i" for inter park.
+"f" for friend class.
+"e" for effect kind.
+
 disaster is Life cond.
 
 disaster is relate.
