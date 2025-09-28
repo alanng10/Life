@@ -90,6 +90,9 @@ They are Optro and Marry.
 Male is Optro major total.
 Mile is Marry major total.
 
+Optro is operate major.
+Marry is desire major.
+
 Life word has spell.
 The spell is:
 "L" for Love Time.
