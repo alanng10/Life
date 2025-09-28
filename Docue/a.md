@@ -84,6 +84,12 @@ Life include ease.
 
 Life include develop.
 
+Life has 2 major total.
+They are Optro and Marry.
+
+Male is Optro major total.
+Mile is Marry major total.
+
 Life word has spell.
 The spell is:
 "L" for Love Time.
