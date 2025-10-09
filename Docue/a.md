@@ -95,6 +95,13 @@ Marry is desire major.
 
 Life word has spell.
 The spell is:
+"L" for Life Super.
+"i" for inter park.
+"f" for feel time.
+"e" for effect kind.
+
+Life word has spell.
+The spell is:
 "L" for Love Time.
 "i" for inter park.
 "f" for friend class.
