@@ -85,13 +85,13 @@ Life include ease.
 Life include develop.
 
 Life has 2 major total.
-They are Optro and Marry.
+They are Opto and Mary.
 
-Male is Optro major total.
-Mile is Marry major total.
+Male is Opto major total.
+Mile is Mary major total.
 
-Optro is operate major.
-Marry is desire major.
+Opto is sare major.
+Mary is sire major.
 
 Life word has spell.
 The spell is:
